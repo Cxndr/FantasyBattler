@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"tmc_string_left_of",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"tmc_string_left_of",
+  "parent":{
+    "name":"tmc_string",
+    "path":"folders/Scripts/tmc_string.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

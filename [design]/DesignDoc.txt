@@ -1,0 +1,23 @@
+Party of 4:
+ - Stats
+ - Equipment
+ - XP
+
+Events:
+ - Run Into Enemy
+ - Run Into Shop
+ - Run Into Party Member
+ - Random Event (changes variables)
+
+Item Screen
+ - Use
+ - Sell
+
+Equip Screen
+ - Equip
+ - Sell
+
+Battle System:
+ - Attack, Ability, Item, Defend
+ - Set Attack Order in Party Settings
+ - Choose all party actions then everyone attacks at once.
